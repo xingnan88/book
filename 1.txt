@@ -1,0 +1,8 @@
+6
+bookform
+ISBN:ISBN
+name:书名
+author:作者
+publisher:出版社
+data:出版日期
+price:价格
